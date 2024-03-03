@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm a student majoring in Clinical Medicine at Dalian Medical University. Currently working on Medical Artificial Intelligence.
 <!--
 **DrunkDreamSeeker/DrunkDreamSeeker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
